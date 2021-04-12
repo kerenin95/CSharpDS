@@ -1,0 +1,16 @@
+C:\CSharpDSA\Array\bin\Debug\net5.0\Array.exe
+C:\CSharpDSA\Array\bin\Debug\net5.0\Array.deps.json
+C:\CSharpDSA\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+C:\CSharpDSA\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+C:\CSharpDSA\Array\bin\Debug\net5.0\Array.dll
+C:\CSharpDSA\Array\bin\Debug\net5.0\ref\Array.dll
+C:\CSharpDSA\Array\bin\Debug\net5.0\Array.pdb
+C:\CSharpDSA\Array\obj\Debug\net5.0\Array.csprojAssemblyReference.cache
+C:\CSharpDSA\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpDSA\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+C:\CSharpDSA\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+C:\CSharpDSA\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+C:\CSharpDSA\Array\obj\Debug\net5.0\Array.dll
+C:\CSharpDSA\Array\obj\Debug\net5.0\ref\Array.dll
+C:\CSharpDSA\Array\obj\Debug\net5.0\Array.pdb
+C:\CSharpDSA\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache
